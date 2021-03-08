@@ -1,0 +1,15 @@
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\bin\Debug\Employee_Info_System.exe.config
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\bin\Debug\Employee_Info_System.exe
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\bin\Debug\Employee_Info_System.pdb
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.csprojAssemblyReference.cache
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.frm_Add_Employee_Info.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.Properties.Resources.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.csproj.GenerateResource.cache
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.csproj.CoreCompileInputs.cache
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.exe
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.pdb
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.MDI_Employee_Info.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.frm_Add_Manager_Mentor.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.frm_Add_Department.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.frm_View_All_Employee.resources
+F:\Rohit_Shedage\C#\Employee_Info_System\Employee_Info_System\obj\Debug\Employee_Info_System.Form1.resources
