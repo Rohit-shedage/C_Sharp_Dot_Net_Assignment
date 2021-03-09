@@ -1,0 +1,9 @@
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\bin\Debug\Login_Regetration_Tab_Control.exe.config
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\bin\Debug\Login_Regetration_Tab_Control.exe
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\bin\Debug\Login_Regetration_Tab_Control.pdb
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.frm_Login.resources
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.Properties.Resources.resources
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.csproj.GenerateResource.Cache
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.exe
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.pdb
+E:\Rohit_Shedage\C#\Login_Regetration_Tab_Control\Login_Regetration_Tab_Control\obj\Debug\Login_Regetration_Tab_Control.csprojResolveAssemblyReference.cache
