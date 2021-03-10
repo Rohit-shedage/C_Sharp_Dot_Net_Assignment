@@ -1,0 +1,13 @@
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\bin\Debug\Employee_Details.exe
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\bin\Debug\Employee_Details.pdb
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.frm_Login.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.Properties.Resources.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.csproj.GenerateResource.Cache
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.exe
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.pdb
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.Add_Employee_Detail.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.MDI_Employee_Details.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.frm_Add_Qualification.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.frm_View_All_Employee.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.frm_View_Emolyee_Detail_Dynamic.resources
+E:\Rohit_Shedage\C#\Employee_Detail\Employee_Details\Employee_Details\obj\x86\Debug\Employee_Details.csprojResolveAssemblyReference.cache
