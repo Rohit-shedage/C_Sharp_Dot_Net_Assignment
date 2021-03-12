@@ -1,0 +1,10 @@
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\bin\Debug\Picture_Box_Demo_Pratice.exe.config
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\bin\Debug\Picture_Box_Demo_Pratice.exe
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\bin\Debug\Picture_Box_Demo_Pratice.pdb
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.csprojAssemblyReference.cache
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.frm_Picture_Box.resources
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.Properties.Resources.resources
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.csproj.GenerateResource.cache
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.csproj.CoreCompileInputs.cache
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.exe
+F:\Rohit_Shedage\C#\Picture_Box_Demo_Pratice\Picture_Box_Demo_Pratice\obj\Debug\Picture_Box_Demo_Pratice.pdb
