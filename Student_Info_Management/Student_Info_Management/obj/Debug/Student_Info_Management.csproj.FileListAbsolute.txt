@@ -1,0 +1,11 @@
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\bin\Debug\Student_Info_Management.exe.config
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\bin\Debug\Student_Info_Management.exe
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\bin\Debug\Student_Info_Management.pdb
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.csprojResolveAssemblyReference.cache
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.frm_Student_Login.resources
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.Properties.Resources.resources
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.csproj.GenerateResource.Cache
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.exe
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.pdb
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.frm_Add_Student_Info.resources
+E:\Rohit_Shedage\C#\Student_Info_Management\Student_Info_Management\obj\Debug\Student_Info_Management.frm_View_Student_Info.resources
