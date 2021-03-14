@@ -1,0 +1,12 @@
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\bin\Debug\Student_Management_Details.exe.config
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\bin\Debug\Student_Management_Details.exe
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\bin\Debug\Student_Management_Details.pdb
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.frm_Add_Student_Information.resources
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.frm_Login.resources
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.frm_View_Student_Detial.resources
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.Properties.Resources.resources
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.csproj.GenerateResource.Cache
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.exe
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.pdb
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.csprojResolveAssemblyReference.cache
+E:\Rohit_Shedage\C#\Student_Management_Details\Student_Management_Details\obj\x86\Debug\Student_Management_Details.frm_View_Stud.resources
