@@ -34,7 +34,6 @@ namespace Student_Management_Details
             Lobj.Show();
             this.Hide();
         }
-
         private void btn_Stud_Save_Click(object sender, EventArgs e)
         {
             if (tb_Stud_ID.Text != "" && tb_Stud_Name.Text != "" && tb_Stud_ID.Text != "" && (cb_Add_Karad.Checked || cb_Add_Mumbai.Checked || cb_Add_Pune.Checked || cb_Add_Sangli.Checked ))
@@ -44,7 +43,7 @@ namespace Student_Management_Details
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
 
-                MessageBox.Show("Record Save Successfully...!!","Success",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                MessageBox.Show("Record Saved Successfully...!!","Success",MessageBoxButtons.OKCancel,MessageBoxIcon.Information);
 
                 tb_Stud_ID.Text = "";
                 tb_Stud_Name.Text = "";
