@@ -1,0 +1,16 @@
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EF_Demo_2.exe.config
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EF_Demo_2.exe
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EF_Demo_2.pdb
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EntityFramework.dll
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EntityFramework.xml
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.csproj.AssemblyReference.cache
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.Form1.resources
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.frm_View_All_Student_Details.resources
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.Properties.Resources.resources
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.csproj.GenerateResource.cache
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.csproj.CoreCompileInputs.cache
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.csproj.CopyComplete
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.exe
+E:\Rohit_Shedage\Entity_Framework\EF_Demo_2\EF_Demo_2\obj\Debug\EF_Demo_2.pdb
